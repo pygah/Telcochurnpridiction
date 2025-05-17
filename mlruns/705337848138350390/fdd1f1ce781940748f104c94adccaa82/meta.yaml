@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/MLFLOW%20PROJECT%28NOW%29/mlruns/705337848138350390/fdd1f1ce781940748f104c94adccaa82/artifacts
+end_time: 1747423713074
+entry_point_name: ''
+experiment_id: '705337848138350390'
+lifecycle_stage: active
+run_id: fdd1f1ce781940748f104c94adccaa82
+run_name: adventurous-rook-47
+run_uuid: fdd1f1ce781940748f104c94adccaa82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747423694635
+status: 3
+tags: []
+user_id: DELL

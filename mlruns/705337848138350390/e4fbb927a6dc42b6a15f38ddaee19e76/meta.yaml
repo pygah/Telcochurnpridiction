@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/MLFLOW%20PROJECT%28NOW%29/mlruns/705337848138350390/e4fbb927a6dc42b6a15f38ddaee19e76/artifacts
+end_time: 1747423786682
+entry_point_name: ''
+experiment_id: '705337848138350390'
+lifecycle_stage: active
+run_id: e4fbb927a6dc42b6a15f38ddaee19e76
+run_name: popular-hare-323
+run_uuid: e4fbb927a6dc42b6a15f38ddaee19e76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747423770208
+status: 3
+tags: []
+user_id: DELL

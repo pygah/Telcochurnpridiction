@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/MLFLOW%20PROJECT%28NOW%29/mlruns/705337848138350390/9d9f8c24131043c6a34c7fad4a36689d/artifacts
+end_time: 1747202794197
+entry_point_name: ''
+experiment_id: '705337848138350390'
+lifecycle_stage: active
+run_id: 9d9f8c24131043c6a34c7fad4a36689d
+run_name: skillful-auk-541
+run_uuid: 9d9f8c24131043c6a34c7fad4a36689d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747202776357
+status: 3
+tags: []
+user_id: DELL

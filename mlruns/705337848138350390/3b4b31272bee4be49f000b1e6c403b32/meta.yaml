@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/MLFLOW%20PROJECT%28NOW%29/mlruns/705337848138350390/3b4b31272bee4be49f000b1e6c403b32/artifacts
+end_time: 1747202841911
+entry_point_name: ''
+experiment_id: '705337848138350390'
+lifecycle_stage: active
+run_id: 3b4b31272bee4be49f000b1e6c403b32
+run_name: RF_Hyperopt
+run_uuid: 3b4b31272bee4be49f000b1e6c403b32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747202623782
+status: 3
+tags: []
+user_id: DELL

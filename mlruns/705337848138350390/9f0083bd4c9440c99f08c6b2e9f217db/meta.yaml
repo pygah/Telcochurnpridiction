@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DELL/Desktop/MLFLOW%20PROJECT%28NOW%29/mlruns/705337848138350390/9f0083bd4c9440c99f08c6b2e9f217db/artifacts
+end_time: 1747202683634
+entry_point_name: ''
+experiment_id: '705337848138350390'
+lifecycle_stage: active
+run_id: 9f0083bd4c9440c99f08c6b2e9f217db
+run_name: polite-shrew-645
+run_uuid: 9f0083bd4c9440c99f08c6b2e9f217db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747202666363
+status: 3
+tags: []
+user_id: DELL

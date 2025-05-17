@@ -1,0 +1,21 @@
+digest: 4b8a94f5
+name: dataset
+profile: '{"num_rows": 1407, "num_elements": 26733}'
+schema: '{"mlflow_colspec": [{"type": "integer", "name": "gender", "required": true},
+  {"type": "long", "name": "SeniorCitizen", "required": true}, {"type": "integer",
+  "name": "Partner", "required": true}, {"type": "integer", "name": "Dependents",
+  "required": true}, {"type": "long", "name": "tenure", "required": true}, {"type":
+  "integer", "name": "PhoneService", "required": true}, {"type": "integer", "name":
+  "MultipleLines", "required": true}, {"type": "integer", "name": "InternetService",
+  "required": true}, {"type": "integer", "name": "OnlineSecurity", "required": true},
+  {"type": "integer", "name": "OnlineBackup", "required": true}, {"type": "integer",
+  "name": "DeviceProtection", "required": true}, {"type": "integer", "name": "TechSupport",
+  "required": true}, {"type": "integer", "name": "StreamingTV", "required": true},
+  {"type": "integer", "name": "StreamingMovies", "required": true}, {"type": "integer",
+  "name": "Contract", "required": true}, {"type": "integer", "name": "PaperlessBilling",
+  "required": true}, {"type": "integer", "name": "PaymentMethod", "required": true},
+  {"type": "double", "name": "MonthlyCharges", "required": true}, {"type": "double",
+  "name": "TotalCharges", "required": true}]}'
+source: '{"tags": {"mlflow.user": "DELL", "mlflow.source.name": "C:\\Users\\DELL\\Desktop\\MLFLOW
+  PROJECT(NOW)\\main.py", "mlflow.source.type": "LOCAL"}}'
+source_type: code

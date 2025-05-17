@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1747254397255
+current_stage: None
+description: ''
+last_updated_timestamp: 1747254397255
+name: CustomerChurnModel
+run_id: 3b4b31272bee4be49f000b1e6c403b32
+run_link: ''
+source: models:/CustomerChurnModel/1
+status: READY
+status_message: null
+storage_location: file:///C:/Users/DELL/Desktop/MLFLOW%20PROJECT%28NOW%29/mlruns/705337848138350390/3b4b31272bee4be49f000b1e6c403b32/artifacts/model
+user_id: null
+version: 2
